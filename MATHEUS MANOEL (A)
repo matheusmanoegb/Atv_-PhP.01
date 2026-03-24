@@ -29,9 +29,6 @@ echo "Magreza grau III.";
 } elseif ($imc >35 && $imc<39.9) {
     echo "Obesidade Severa (grau II).";
 
-} elseif ($imc >35 && $imc<39.9) {
-    echo "Obesidade Severa (grau II).";
-
 }else {
     echo "Obesidade muito Severa (grau III).";
 }
